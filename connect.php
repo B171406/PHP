@@ -38,7 +38,7 @@ function updatename($conn) {
     echo "Error updating record: " . $conn->error;
   }
 }
- add column
+// add column
 function add_col() {
   global $conn;
 
